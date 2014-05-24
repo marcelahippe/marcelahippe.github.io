@@ -48,9 +48,9 @@ body {
 
 .about {
 	width: 100%;
-	height: 800px;
+	height: 900px;
 	text-align: center;
-	padding-top: 15%;
+	padding-top: 10%;
 	background-color: #687a88;
 	border-bottom: 4px solid #d1ead5;
 }
@@ -63,16 +63,18 @@ body {
 	font-weight: 300;
 }
 
-.about .photo {
-	width: 250px;
-	height: 250px;
-	margin-bottom: 30px;
-}
-
+.photo img {
+	width: 400px;
+	height: 400px;
+	margin-bottom: 5%;
+	border-radius: 200px;
+	-webkit-border-radius: 200px;
+	-moz-border-radius: 200px;
+	}
 
 .quote {
 	width: 100%;
-	height: 600px;
+	height: 800px;
 	text-align: center;
 	padding-top: 15%;
 	background-image: url("http://marcelahippe.com/frontend/projeto03/css/img/bg-01.jpg");
@@ -158,11 +160,14 @@ body {
 		font-size: 1.6em;
 	}
 
-	.about .photo {
-	margin-top: 30%;
-	width: 180px;
-	height: 180px;
-	}
+	.photo img {
+		width: 250px;
+		height: 250px;
+		margin-bottom: 10%;
+		border-radius: 125px;
+		-webkit-border-radius: 125px;
+		-moz-border-radius: 125px;
+		}
 
 	.quote p {
 		font-size: 1.9em;
@@ -194,5 +199,6 @@ body {
 	.contact ul li {
 		padding: 0 15px;
 	}
+
 
 }
