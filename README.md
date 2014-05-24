@@ -1,4 +1,4 @@
-site_pessoal
+Site pessoal
 ============
 
-Meu primeiro projeto de verdade em que fiz todo o HTML e CSS.
+O primeiro projeto de verdade em que fiz todo o HTML e CSS.
