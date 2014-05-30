@@ -1,5 +1,5 @@
 # Oi! Sou a Marcela
-E este é meu site pessoal. Sou formada em Publicidade e UX Designer na [Locaweb](locaweb.com.br)
+E este é meu site pessoal. Sou formada em Publicidade e UX Designer na Locaweb.
 
 
 # Sobre o site
