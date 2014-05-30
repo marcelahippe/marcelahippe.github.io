@@ -1,4 +1,4 @@
-Site pessoal
+Sobre mim
 ============
 
-O primeiro projeto de verdade em que fiz todo o HTML e CSS.
+Este é meu site pessoal. Simples, minimalista, bonitinho e funcionando. Sou UX Designer e esse é o primeiro projeto que faço "na mão", tentando aplicar as melhores práticos do que tenho aprendido sobre desenvolvimento front-end.
