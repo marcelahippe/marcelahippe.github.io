@@ -7,3 +7,7 @@ Ele é simples, minimalista e bonitinho. Mas tenho orgulho de divulgar porque es
 
 # And the Oscar goes to...
 Pra você que é dev e manja muito dos paranauê vai parecer besteira, mas eu realmente estou muito orgulhosa e feliz por ter aprendico a fazer um site do zero. Por isso, quero fazer alguns agradecimentos.
+
+Diego Eis _ Que foi o primeiro cara que me deu aula de verdade sobre HTML e CSS, já dando dicas das melhores práticas de código limpo e organizado.
+
+Deivid Marques _ Que muito pacientemente tentou me ensinar coisas um pouquinho mais avançadas de CSS e JavaScript. Foi com ele que consegui fazer minhas primeiras páginas com grid! :)
