@@ -1,5 +1,5 @@
 # Oi! Sou a Marcela
-E este é meu site pessoal. Sou formada em Publicidade e UX Designer na Locaweb.
+E este é meu site pessoal. Sou UX Designer, mas de vez em quando tento colocar a mão em um código ou outro.
 
 
 # Sobre este site
@@ -10,4 +10,4 @@ Pra você que é dev e manja muito dos paranauê vai parecer besteira, mas eu re
 
 Diego Eis _ Que foi o primeiro cara que me deu aula de verdade sobre HTML e CSS, já dando dicas das melhores práticas de código limpo e organizado.
 
-Deivid Marques _ Que muito pacientemente tentou me ensinar coisas um pouquinho mais avançadas de CSS e JavaScript. Foi com ele que consegui fazer minhas primeiras páginas com grid! :)
+Deivid Marques _ Que muito pacientemente tentou me ensinar coisas um pouquinho mais avançadas de CSS e JavaScript. Foi com ele que consegui fazer minhas primeiras páginas com grid. Yay! :)
