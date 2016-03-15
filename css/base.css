@@ -48,7 +48,7 @@ body {
 
 .about {
 	width: 100%;
-	height: 900px;
+	height: 635px;
 	text-align: center;
 	padding-top: 10%;
 	background-color: #284251;
@@ -75,7 +75,7 @@ body {
 
 .quote {
 	width: 100%;
-	height: 800px;
+	height: 630px;
 	text-align: center;
 	padding-top: 15%;
 	background-image: url("img/bg.jpg");
